@@ -1,4 +1,4 @@
-#Mon Jul 24 12:39:32 KST 2023
-base.0=/Users/jeonhyewon/AndroidStudioProjects/Basic_code/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue Jul 25 13:45:59 KST 2023
+base.0=C\:\\flutterProject\\seasun\\seasun_project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
